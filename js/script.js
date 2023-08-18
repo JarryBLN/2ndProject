@@ -1,0 +1,1 @@
+alert("Willkommen zu Jarry's Snake")
